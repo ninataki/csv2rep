@@ -12,8 +12,6 @@ Sub ALL_SCO報告書作成()
     Call タイトルの色
 End Sub
 
-
-
 '文字のある範囲を選択、折り返す、左・中央ぞろえにする、目盛り線を消す、枠線をつける。上下幅：3列ほどにする。
 Sub 設定変更()
     ActiveWindow.DisplayGridlines = False '目盛線を非表示
